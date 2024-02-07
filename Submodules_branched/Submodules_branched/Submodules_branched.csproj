@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Submodules_main\Submodules_external\Submodules_external\Submodules_external\Submodules_external.csproj" />
+  </ItemGroup>
+
 </Project>
